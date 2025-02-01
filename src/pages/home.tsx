@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Coffee, Heart, Star, ThumbsUp } from "lucide-react";
+import { Brain, Coffee, Heart, Star, ThumbsUp } from "lucide-react";
 import { motion } from "framer-motion";
 import { ModeToggle } from "@/components/mode-toggle";
 import { HeroSection } from "@/components/hero-section";
